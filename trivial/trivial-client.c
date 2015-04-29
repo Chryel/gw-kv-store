@@ -11,7 +11,7 @@
 #include "../lib/timer/timer_util.h"
 
 /****************************************
-        Author: Tim Wood
+        Author: Tim Wood, Jobin Bae
         with a little help from
         http://beej.us/guide/bgnet/
 ****************************************/
