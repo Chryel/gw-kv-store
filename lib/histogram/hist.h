@@ -1,6 +1,17 @@
 #include <stdlib.h>
 #include <stdio.h>
 
+/************************************************
+ *                     GW KV
+ *  https://github.com/gwAdvNet2015/gw-kv-store
+ *
+ * Copyright 2015 Anthony Korzan, Jobin Bae
+ *
+ * This program is licensed under the MIT license.
+ *
+ * hist.h - Basic Histogram utility library
+ *************************************************/
+
 struct histogram {
         int min;
         int max;
