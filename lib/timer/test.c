@@ -5,6 +5,18 @@
 #define __STDC_FORMAT_MACROS
 #include <inttypes.h>
 
+/************************************************
+ *                     GW KV
+ *  https://github.com/gwAdvNet2015/gw-kv-store
+ *
+ * Copyright 2015 Jobin Bae
+ *
+ * This program is licensed under the MIT license.
+ *
+ * test.c - Timer Utility and Histogram
+ *      basic functionality tests.
+ *************************************************/
+
 int main(){
         timer_util* tu = malloc(sizeof(timer_util));
         int i, j, k;
