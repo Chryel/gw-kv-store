@@ -4,6 +4,17 @@
 #include <stdio.h>
 #include "../histogram/hist.h"
 
+/************************************************
+ *                     GW KV
+ *  https://github.com/gwAdvNet2015/gw-kv-store
+ *
+ * Copyright 2015 Jobin Bae
+ *
+ * This program is licensed under the MIT license.
+ *
+ * timer.h - Basic timer utlity functions.
+ *************************************************/
+
 #define TIMER_CYCLES
 #define TIMER_USEC
 #define NUM_TIMER 10
